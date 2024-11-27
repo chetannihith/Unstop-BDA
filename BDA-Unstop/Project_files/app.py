@@ -1,7 +1,4 @@
-import os
-
-# Install required packages
-os.system('pip install streamlit pandas matplotlib seaborn plotly wordcloud')
+!pip install -r requirements.txt
 
 import streamlit as st
 import pandas as pd
