@@ -1,3 +1,8 @@
+import os
+
+# Install required packages
+os.system('pip install streamlit pandas matplotlib seaborn plotly wordcloud')
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
