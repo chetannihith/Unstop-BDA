@@ -1,6 +1,7 @@
-```markdown
 # Big Data Analytics on Unstop Data
 
+---
+```markdown
 This repository contains the code and resources for a comprehensive project on **Big Data Analytics**. The project involves data scraping, preprocessing, creating visualizations, and applying analytics techniques to analyze hackathons, internships, and job datasets scraped from the Unstop platform.
 
 ## Overview
@@ -12,7 +13,7 @@ This is a repository where we scrape the data from the Unstop website using its 
 - **Visualizations**: Created critical visualizations to derive insights.
 - **Analytics Applications**: Applied various analytics techniques to uncover hidden patterns.
 - **Cross-Dataset Insights**: Combined datasets to generate deeper insights.
-
+```
 ---
 
 ## 📂 Repository Structure
