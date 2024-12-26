@@ -3,6 +3,10 @@
 
 This repository contains the code and resources for a comprehensive project on **Big Data Analytics**. The project involves data scraping, preprocessing, creating visualizations, and applying analytics techniques to analyze hackathons, internships, and job datasets scraped from the Unstop platform.
 
+## Overview
+
+This is a repository where we scrape the data from the Unstop website using its API based on our requirements and build a pipeline through Python notebooks. The pipeline consists of extraction, cleaning, and visualization of data into charts using analytics.
+
 ## 🚀 Project Features
 - **Data Preprocessing**: Cleaned and prepared datasets for analysis.
 - **Visualizations**: Created critical visualizations to derive insights.
